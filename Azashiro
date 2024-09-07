@@ -1,0 +1,5 @@
+git clone https://github.com/LordAzashiro/Azashiro.git
+cd NOME_DO_REPOSITORIO
+git add index.html game.js
+git commit -m "Adicionando arquivos do jogo"
+git push origin main
